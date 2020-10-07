@@ -1,0 +1,19 @@
+div {
+  min-height: 45px;
+  width: 80%;
+  background-color: yellow;
+  margin: 2% auto;
+  /* transition: all ease-in-out .25s; */
+}
+
+
+.sticky {
+    position: sticky;
+    top:10px;
+    background-color: whitesmoke;
+}
+
+.hide {
+    opacity: 0;
+    background-color: purple;
+}
