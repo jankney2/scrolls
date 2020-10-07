@@ -9,7 +9,8 @@ div {
 
 .sticky {
     position: sticky;
-    top:50px;
+    top:10px;
+    background-color: whitesmoke;
 }
 
 .hide {
